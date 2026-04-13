@@ -1,0 +1,1 @@
+console.log("Please wait... Loading the portfolio...");
